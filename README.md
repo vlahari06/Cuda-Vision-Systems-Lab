@@ -1,6 +1,6 @@
 CUDA Vision system lab Projects
 
-Project 1 : Logistic Regression Classifier using pure python/numpy__
+Project 1 : Logistic Regression Classifier using pure python/numpy<br />
 Project 2 : Multilayer neural network
 Project 3 : MLP with different optimizers and activation functions
 Project 4 : CNN for CIFAR-10 with the best hyperparameters
